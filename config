@@ -1,0 +1,9 @@
+{
+	"input_file":"xinhui.apk",
+	"keystore":"./keystore/xinhui.keystore",
+	"keystore_pwd":"xinze2014",
+	"alianame":"xinhui",
+	"output":"./bin",
+	"channel":"./channel",
+	"channle_key":"channel_value"
+}
